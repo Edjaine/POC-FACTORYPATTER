@@ -1,0 +1,15 @@
+C:\Users\edjai\Documents\POC\factory-generica\bin\Debug\net6.0\factory-generica.exe
+C:\Users\edjai\Documents\POC\factory-generica\bin\Debug\net6.0\factory-generica.deps.json
+C:\Users\edjai\Documents\POC\factory-generica\bin\Debug\net6.0\factory-generica.runtimeconfig.json
+C:\Users\edjai\Documents\POC\factory-generica\bin\Debug\net6.0\factory-generica.dll
+C:\Users\edjai\Documents\POC\factory-generica\bin\Debug\net6.0\factory-generica.pdb
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.csproj.AssemblyReference.cache
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.AssemblyInfoInputs.cache
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.AssemblyInfo.cs
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.csproj.CoreCompileInputs.cache
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.dll
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\refint\factory-generica.dll
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.pdb
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\factory-generica.genruntimeconfig.cache
+C:\Users\edjai\Documents\POC\factory-generica\obj\Debug\net6.0\ref\factory-generica.dll
